@@ -1,5 +1,6 @@
-
 # Password Strength Checker
+
+[🇧🇷 Leia em Português](README.pt.md)
 
 ## Overview
 
@@ -59,3 +60,4 @@ If the password is found in the Pwned Passwords database, you will receive a not
 ## Disclaimer
 
 This project is for educational purposes only. The password strength checker is not intended to be a comprehensive security tool and should not be relied upon for securing sensitive systems. Always follow best practices for password management and use additional security measures such as multi-factor authentication (MFA).
+
